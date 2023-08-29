@@ -21,5 +21,5 @@ Text summarization is the process of creating a short, accurate, and fluent summ
 
 
 ## Special Thanks
--Coursera
--Youtube
+- Coursera
+- Youtube
